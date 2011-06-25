@@ -2,6 +2,9 @@
 
 A collection of useful Rails generator scripts for scaffolding, layout files, authentication, and more.
 
+azhao:
+ now I want to add a sample jquery ajax scaffold that will work like this : 
+ rails g nifty:jscaffold Recipe name:string index new
 
 == Setup
 
